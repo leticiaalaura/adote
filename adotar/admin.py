@@ -1,3 +1,5 @@
 from django.contrib import admin
 
-# Register your models here.
+from adotar.models import PedidoAdocao
+
+admin.site.register(PedidoAdocao)
