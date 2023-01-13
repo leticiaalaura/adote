@@ -1,1 +1,1 @@
-# adote
+App para adoção de pets.
